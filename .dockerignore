@@ -1,0 +1,8 @@
+.git
+*.exe
+*.o
+*.zip
+README.md
+sample_transactions.csv
+run_windows.bat
+run_msys2.sh

@@ -1,0 +1,4 @@
+sender_name,sender_account,bank,beneficiary_name,beneficiary_account,amount,currency,country,txn_type,channel,hour,failed,distance,new_device,online
+Aarav Menon,DEMO-100001,Demo National Bank,Neha Thomas,DEMO-200001,1200,INR,India,UPI Payment,UPI,14,0,5,0,1
+Riya Nair,DEMO-100002,Demo National Bank,Global Trading LLC,DEMO-200002,85000,INR,United Arab Emirates,Wire Transfer,Internet Banking,2,4,850,1,1
+Kabir Das,DEMO-100003,Sample Cooperative Bank,Metro Electronics,DEMO-200003,32000,INR,India,Online Purchase,Mobile Banking,10,1,120,0,1
